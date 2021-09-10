@@ -2,12 +2,6 @@
 height: auto;
 width: 80px;
 }
-.scroll{
-     width: auto;
-     height: 500px;
-     overflow-x: hidden;
-     overflow-y: auto;
-}
 .scroll::-webkit-scrollbar{
     display: none;
 }
